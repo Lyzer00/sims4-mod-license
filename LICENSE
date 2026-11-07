@@ -1,0 +1,145 @@
+# Lyzer Vice — Sims 4 Mod License
+
+Copyright (c) 2026 Lyzer Vice. All rights reserved.
+
+Version 1.0 — 2026-11-06
+
+This document is the license for every mod for The Sims 4 published by Lyzer
+Vice (each, a "Mod"), covering its `.package` and `.ts4script` files, its
+resources, source files and documentation.
+
+---
+
+## In short
+
+- Use it, play it, stream it.
+- Do not reupload it, paywall it, or claim it as your own.
+- You may publish compatibility patches, translations and addons, as long as
+  they need the original installed, credit me, and link back to the original
+  download page.
+- It comes with no warranty.
+
+The sections below are the actual terms; the summary above is only a courtesy.
+
+---
+
+## 1. Scope and precedence
+
+1. This license applies to every Mod published by Lyzer Vice, present and
+   future, unless a Mod ships its own `LICENSE` file or license notice.
+2. If a Mod ships its own license, **that file governs that Mod and takes
+   precedence over this one.**
+3. Each Mod is licensed separately. Nothing in this document grants any right
+   over another author's work.
+
+## 2. What you may do
+
+You may:
+
+1. **Use the Mod** for personal, non-commercial purposes, in as many games and
+   saves as you like.
+2. **Modify the Mod for your own private use**, without distributing the result.
+3. **Show the Mod** in videos, streams, screenshots and other content, with
+   credit to Lyzer Vice and a link to the original download page.
+4. **Redistribute links** to the original download page.
+
+## 3. What you may not do
+
+You may not:
+
+1. **Reupload the Mod**, in whole or in part, to any site, service, archive,
+   mirror, mod manager, launcher or file-sharing platform.
+2. **Distribute modified copies of the Mod's files**, except as expressly
+   allowed in section 4.
+3. **Place the Mod, or anything derived from it, behind a paywall**, Patreon
+   tier, ad-gate, early-access lock, donation requirement or any other access
+   restriction.
+4. **Claim authorship** of the Mod or of any of its resources, or remove or
+   alter this license or the author credits.
+5. **Include the Mod in a compilation, mod pack, bundle or "all-in-one"
+   download.**
+6. **Sell the Mod**, or use it or its resources for any commercial purpose.
+7. **Convert the Mod's resources to another game** or engine.
+8. **Use the names of any Mod or "Lyzer Vice"** other than for factual credit
+   and links back to the original download page.
+
+## 4. Patches, translations and addons
+
+You may publish a compatibility patch, translation or addon for a Mod,
+provided that **all** of the following are true:
+
+1. **It requires the original Mod to be installed.** Your release must contain
+   only the resources you changed, and must not include, copy or repackage any
+   of the Mod's original files. A full repack of the Mod is not a patch.
+2. **You credit Lyzer Vice** as the author of the original and **link to the
+   original download page** in the description, the README and any download
+   listing.
+3. **You state clearly** that your release is unofficial and is not supported
+   by Lyzer Vice.
+4. **You do not charge for it** and do not place it behind any access
+   restriction described in section 3.3.
+5. **You grant Lyzer Vice a non-exclusive, perpetual, royalty-free right to
+   incorporate your changes into the Mod**, with credit where practical. This
+   grant extends only to the rights you actually hold in your contribution.
+6. **You are responsible for the rights in your contribution.** You may not
+   grant more than you own. If your contribution includes third-party material,
+   you must have permission to use and license it, and you are responsible for
+   any claim arising from it.
+
+The permissions in this section are granted only to that specific release. They
+do not transfer any ownership, and they end automatically if you breach these
+terms.
+
+## 5. No warranty
+
+THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. THE ENTIRE RISK AS TO THE
+QUALITY AND PERFORMANCE OF THE MOD IS WITH YOU. SHOULD THE MOD PROVE DEFECTIVE,
+YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+A Mod may modify Sims data stored in your save files or in your game
+installation. Lyzer Vice does not warrant that a Mod is compatible with any
+other mod, custom content, game version or expansion pack, or that it will not
+affect existing or future saves.
+
+## 6. Limitation of liability
+
+IN NO EVENT, UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, SHALL
+LYZER VICE BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL,
+INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE
+THE MOD, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF SAVE FILES, DAMAGE
+TO YOUR GAME INSTALLATION, OR FAILURE OF THE MOD TO OPERATE WITH ANY OTHER
+SOFTWARE, EVEN IF LYZER VICE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+## 7. Third-party rights and Electronic Arts
+
+The Mod is not affiliated with, endorsed by, sponsored by or supported by
+Electronic Arts Inc., Maxis, or their affiliates. "The Sims" and "The Sims 4"
+are trademarks of Electronic Arts Inc. This license covers only original
+content authored by Lyzer Vice and grants no rights over any Electronic Arts
+material.
+
+## 8. Termination
+
+Any breach of these terms terminates, automatically and without notice, every
+permission granted to you under this license. On termination you must delete all
+copies of the Mod in your possession. Sections 5, 6 and 7 survive termination.
+
+## 9. Changes to these terms
+
+Lyzer Vice may publish new versions of these terms. Each version is published
+under its own tag, and the version that was current when you downloaded a Mod
+governs that Mod.
+
+## 10. Contact
+
+The canonical copy of this license is published at:
+
+    github.com/Lyzer00/sims4-mod-license
+
+Questions, requests for permission beyond these terms, or reports of a
+violation:
+
+    curseforge.com/members/LyzerVice/projects
